@@ -47,7 +47,7 @@ later (LGPLv2+)",
     url="https://github.com/danimaribeiro/PyTrustNFe",
     license="LGPL-v2.1+",
     description="PyTrustNFe é uma biblioteca para envio de NF-e",
-    long_description=open("README.md", "r").read(),
+    long_description="",
     long_description_content_type="text/markdown",
     install_requires=[
         'xmlsec >= 1.3.13',  # apt update;apt install libxmlsec1-dev pkg-config -y
